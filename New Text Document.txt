@@ -1,1 +1,2 @@
 New feature-xyz
+Additional feature for merge
